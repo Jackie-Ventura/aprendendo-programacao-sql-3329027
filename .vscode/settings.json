@@ -32,5 +32,8 @@
   ],
   "sqltools.useNodeRuntime": true,
   "sqltools.results.pageSize": 50,
-  "sqltools.results.limit": 50
+  "sqltools.results.limit": 50,
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
